@@ -1,16 +1,8 @@
 # IntuneWinAppUtilGUI
 <!-- wp:paragraph -->
-<p><em><a href="https://go.microsoft.com/fwlink/?linkid=2065730" target="_blank" rel="noreferrer noopener">Microsoft Win32 Content Prep Tool</a> </em> (<em>IntuneWinAppUtil.exe</em>) converts application installation files into the ".intunewin" format. <em>IntuneWinAppUtil</em> is a command line tool that is inconvenient to use.</p>
+<p>I wrote <a href="https://saadkhamis.com/intunewinapputilgui/" target="_blank" rel="noreferrer noopener"><em>IntuneWinAppUtilGUI</em> </a>to simplify using and executing <em><a rel="noreferrer noopener" href="https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool" target="_blank">IntuneWinAppUtil.exe</a></em> and <em><a rel="noreferrer noopener" href="https://github.com/okieselbach/Intune/blob/master/IntuneWinAppUtilDecoder/IntuneWinAppUtilDecoder/bin/Release/IntuneWinAppUtilDecoder.zip" target="_blank">IntuneWinAppUtilDecoder.exe</a></em>. It can also be used to <em>Pack</em> files/folders into an <em>.intunewin</em> file and to <em>extract</em> original files/folders from an ".intunewin" file.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I created <em><a href="https://saadkhamis.com/intunewinapputilgui/" target="_blank" rel="noreferrer noopener">Win32 Content Prep Tool GUI (IntuneWinAppUtilGUI.exe)</a></em> to simplify using and executing <em>IntuneWinAppUtil.exe</em>.</p>
+<p><em><a href="https://saadkhamis.com/intunewinapputilgui/" target="_blank" rel="noreferrer noopener">IntuneWinAppUtilGUI</a></em> has a simple clear interface. It is a single exe file with no dependencies on other libraries, components, etc. You don’t need to type folders/files path. You can simply click on the folder/path selector to select folders/files.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>IntuneWinAppUtilGUI</em> is a single exe file with no dependencies on other libraries, components, etc. It has a simple clear interface. You don’t need to type folders/files path. You can simply click on the folder/path selector to select folders/files.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":715,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://saadkhamis.com/wp-content/uploads/2022/06/IntuneWinAppUtilGUI_Notepad_20-1024x968.png" alt="" class="wp-image-715"/></figure>
-<!-- /wp:image -->
