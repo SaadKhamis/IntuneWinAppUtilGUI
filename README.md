@@ -6,3 +6,7 @@
 <!-- wp:paragraph -->
 <p><em><a href="https://saadkhamis.com/intunewinapputilgui/" target="_blank" rel="noreferrer noopener">IntuneWinAppUtilGUI</a></em> has a simple clear interface. It is a single exe file with no dependencies on other libraries, components, etc. You don’t need to type folders/files path. You can simply click on the folder/path selector to select folders/files.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":806,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://saadkhamis.com/wp-content/uploads/2022/07/IntuneWinAppUtilGui-NpPP-Result.png" alt="" class="wp-image-806"/></figure>
+<!-- /wp:image -->
